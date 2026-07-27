@@ -5,8 +5,7 @@ gorun
 package main
 import (
 	"fmt"
-	"os"
-	gol "github.com/shoce/gogol"
+	golr "github.com/shoce/gogol/render"
 )
 const (
 	NL = "\n"
@@ -16,7 +15,7 @@ var (
 	pout = fmt.Print
 )
 func main() {
-	r := gol.Make(111, 111, 1)
+	r := golr.Make(111, 111, 1)
 	r.Render()
 }
 

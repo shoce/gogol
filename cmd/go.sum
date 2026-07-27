@@ -1,0 +1,8 @@
+github.com/go-gl/gl v0.0.0-20260331235117-4566fea9a276 h1:IO5P06Pcj9K04d+l4nrf3c2U56+dAotIFG6u4P1wAHI=
+github.com/go-gl/gl v0.0.0-20260331235117-4566fea9a276/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
+github.com/go-gl/glfw v0.0.0-20260707082822-2a407d02d01a h1:ZCccnNfNcUV+TdKJwAEPPq+mBlEDo0cOrl2FMN6IthE=
+github.com/go-gl/glfw v0.0.0-20260707082822-2a407d02d01a/go.mod h1:fOxQgJvH6dIDHn5YOoXiNC8tUMMNuCgbMK2yZTlZVQA=
+github.com/shoce/gogol v0.0.0-20200305151502-0449555e53e3 h1:aXSSxK4WnrYkkM1yTfkHdIzMZp9gthitsgs1gx3lYKA=
+github.com/shoce/gogol v0.0.0-20200305151502-0449555e53e3/go.mod h1:1hVvcYzi4AfwqArcXzynbjBv4guLQHe5uyiwMiVKwJ4=
+github.com/tomlockwood/gogol v0.0.0-20200305151502-0449555e53e3 h1:RSJJtzlfvaAzobTpZmhVwkVgpoJiqfKkBwvvTIjZIB8=
+github.com/tomlockwood/gogol v0.0.0-20200305151502-0449555e53e3/go.mod h1:J3qwg376aqm7r7Cqeg7MY/oNjoQasO4RtxfdTruv30s=
