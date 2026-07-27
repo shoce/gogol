@@ -2,5 +2,3 @@ github.com/go-gl/gl v0.0.0-20260331235117-4566fea9a276 h1:IO5P06Pcj9K04d+l4nrf3c
 github.com/go-gl/gl v0.0.0-20260331235117-4566fea9a276/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
 github.com/go-gl/glfw v0.0.0-20260707082822-2a407d02d01a h1:ZCccnNfNcUV+TdKJwAEPPq+mBlEDo0cOrl2FMN6IthE=
 github.com/go-gl/glfw v0.0.0-20260707082822-2a407d02d01a/go.mod h1:fOxQgJvH6dIDHn5YOoXiNC8tUMMNuCgbMK2yZTlZVQA=
-github.com/shoce/gogol v0.0.0-20260727134454-f4e8ccb7e86c h1:LEqczZZFCffYqkIVXjYub3nNIndGQNNV1pdSPMYTtTQ=
-github.com/shoce/gogol v0.0.0-20260727134454-f4e8ccb7e86c/go.mod h1:pbpB6xu/dI48jvlpJeHnCJbs8kVyfGvGa5FgdIKBgQY=

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-gl/gl/v4.1-core/gl"
+	"github.com/go-gl/gl/v4.4-core/gl"
 	"github.com/go-gl/glfw/v3.2/glfw"
 	gol "github.com/shoce/gogol"
 )
